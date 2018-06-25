@@ -10,6 +10,8 @@
     "patch",
     "neil fraser",
     "diff_match_patch"
+
+11111111111111111
   ],
   "main":"./lib/diff_match_patch.js",
   "scripts": [
