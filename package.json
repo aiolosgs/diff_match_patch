@@ -4,7 +4,11 @@
     "keywords": ["diff", "match", "patch", "myer"],
     "version": "0.1.1",
     "author": "Neil Fraser cc",
-    "mantainers":[{"namecz": "Luis Borjas", "email": "me@lfborjas.com"}],
+
+
+
+
+    "mantainers":[{"name": "Luis Borjas", "email": "me@lfborjas.com"}],
     "repository":{"type": "git", "url": "http://github.com/lfborjas/node_diff_match_patch.git"},
     "directories": {"lib": ".zc/lib"},
     "main": "./lib/diff_match_patch",
